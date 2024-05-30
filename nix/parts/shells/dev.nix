@@ -60,7 +60,7 @@
     enable = true;
     bun = {
       enable = true;
-      install.enable = true;
+      #install.enable = true;
     };
   };
 
